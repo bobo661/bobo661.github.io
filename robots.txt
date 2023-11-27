@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://soso.dev/sitemap.xml
+Sitemap: https://sososong.github.io/sitemap.xml
