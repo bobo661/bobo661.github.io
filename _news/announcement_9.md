@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my research project on PoL at the [2023 CMS Research Symposium](https://www.utsc.utoronto.ca/cms/events/cms-research-symposium-f23).
+Presented my research project on Proof of Location at the [2023 CMS Research Symposium](https://www.utsc.utoronto.ca/cms/events/cms-research-symposium-f23).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received 2nd place in the North America 2021 IBM Intern Challenge (Hackathon). 
+Awarded 2nd place in the North America 2021 IBM Intern Challenge (Hackathon). 

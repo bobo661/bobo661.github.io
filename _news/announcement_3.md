@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first Unity game was accepted by the Apple Store. :sparkles: :smile:
+Apps I built became available on the Apple Store and received more than 4k downloads in the first year. :sparkles: :smile:

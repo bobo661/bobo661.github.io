@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Created the startup project B2ST at UofT's Department of Computer Science Innovation Lab (DCSIL) as co-leader.
+Created the startup project B2ST at UofT's Department of Computer Science Innovation Lab (DCSIL).
