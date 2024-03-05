@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: New Grad | Software Engineer, University of Toronto #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: New Grad | Software Engineer, University of Toronto #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Passionate software engineer and University of Toronto graduate.
 
 # profile:
 #   align: right
@@ -22,7 +23,11 @@ social: false  # includes social icons at the bottom of the page
 > Computer science is no more about computers than astronomy is about telescopes.
 > —— Edsger Dijkstra
 
-In a quest to learn how to use the "telescope" and explore the "universe" during my undergraduate studies, I delved into multiple areas of computer science while adopting various identities. 
+Inspired by the idea of computer science as a 'telescope' to explore the universe of possibilities, I delved into multiple areas during my undergraduate studies. These roles included backend development, game development (with a focus on graphics and geometry), and research in crypto/Web3. I'm passionate about solving real-world problems with the power of technology and am incredibly grateful for the support of my teammates and professors. Over the past few years, I have gained valuable experience and leadership skills. 
+
+If you are interested in collaborating, please feel free to reach out via email!
+
+<!-- In a quest to learn how to use the "telescope" and explore the "universe" during my undergraduate studies, I delved into multiple areas of computer science while adopting various identities. 
 These roles included working as 
 - a backend developer in the field of computer engineering, 
 - a game developer in the field of computer graphics/geometry processing, and
@@ -30,7 +35,7 @@ These roles included working as
 
 I find it exciting that our world is changing so rapidly, bringing new problems to identify and solve. I am incredibly thankful to my teammates and professors, and I enjoy applying theoretical knowledge to solve real-world problems.
 
-Over the past few years, I have gained valuable work and research experience, as well as developed my leadership skills. If you are interested in collaborating after reviewing my CV, please feel free to reach out via email!
+Over the past few years, I have gained valuable work and research experience, as well as developed my leadership skills. If you are interested in collaborating after reviewing my CV, please feel free to reach out via email! -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
