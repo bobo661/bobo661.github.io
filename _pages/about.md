@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: New Grad | Software Engineer, University of Toronto #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Passionate Canadian software engineer and University of Toronto graduate. 🇨🇦🦫
+subtitle: Passionate Canadian software engineer and University of Toronto graduate. 🦫
 
 # profile:
 #   align: right
