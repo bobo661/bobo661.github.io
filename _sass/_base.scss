@@ -278,7 +278,8 @@ blockquote {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.7rem;
+    font-size: 35px; //1.7rem;
+    line-height: 1em;
 
     a {
       i::before {
@@ -294,6 +295,15 @@ blockquote {
     }
   }
 }
+
+.gm-icon { background: #c84e3f; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: initial; }
+.gm-icon:hover { background: #df978e; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; }
+
+.gh-icon { color: #25292e; background: #25292e; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: initial; }
+.gh-icon:hover { color: #525b67; background: #525b67; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; }
+
+.li-icon { background: #0e76a8; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: initial; }
+.li-icon:hover { background: #2eb0ee; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; }
 
 .navbar-toggler {
   .icon-bar {

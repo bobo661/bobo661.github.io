@@ -96,7 +96,16 @@
               {% endfor -%}
 
               <!-- CV link -->
-              <a class="nav-link" href="{{ '/assets/pdf/soso_vitae.pdf'}}" target="_blank">vitae</a>
+              <a 
+                class="nav-link" 
+                href="{{ '/assets/pdf/soso_vitae.pdf'}}" 
+                target="_blank"
+                rel="noopener noreferrer"
+                style="padding-top: 0; padding-bottom: 0;"
+              >
+                <!-- <i class="fa-solid fa-file-pdf"></i> -->
+                <img height="35px" src="/assets/img/pdf_icon.svg"/>vitae
+              </a>
               
               {%- if site.enable_darkmode %}
 
