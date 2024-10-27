@@ -20,12 +20,25 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+I'm a software developer specializing in algorithm design, with a 3.91 GPA over my last two years, encompassing 18 upper-level CS courses (including 3 graduate-level).📚 I have 16 months of SDET experience at IBM, where I placed second in the 2021 North America IBM Intern Challenge.💼 
+
+I've led seven tech teams across multiple universities, guiding over 22 members to successful project outcomes.🤝 My research collaborations with professors have resulted in two upcoming papers (ACNS 2025, SIGCSE TS 2025) on security, privacy, LLMs, and CS education.🔬
+
+My communication skills are honed through pitches to industry guests from companies like Shopify, Stripe, TD Bank, Gameloft, Ubisoft, Snowman Games, and Uken Games. I've presented at events such as Level UP, UofT CMS Research Symposium, and UofT MScAC Applied Research in Action 2023.🎙️ 
+
+And here’s a memory anchor, in case my profile seems plain to you:
 > Computer science is no more about computers than astronomy is about telescopes.
+> —— Edsger Dijkstra
+
+If you're interested in collaborating, feel free to reach out via email!
+
+<!-- Versiona 1: -->
+<!-- > Computer science is no more about computers than astronomy is about telescopes.
 > —— Edsger Dijkstra
 
 Inspired by the idea of computer science as a 'telescope' to explore the universe of possibilities, I delved into multiple areas during my undergraduate studies. These roles included backend development, game development (with a focus on graphics and geometry), and research in crypto/Web3. I'm passionate about solving real-world problems with the power of technology and am incredibly grateful for the support of my teammates and professors. Over the past few years, I have gained valuable experience and leadership skills. 
 
-If you are interested in collaborating, please feel free to reach out via email!
+If you are interested in collaborating, please feel free to reach out via email! -->
 
 <!-- In a quest to learn how to use the "telescope" and explore the "universe" during my undergraduate studies, I delved into multiple areas of computer science while adopting various identities. 
 These roles included working as 
