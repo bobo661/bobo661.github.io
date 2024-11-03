@@ -26,9 +26,9 @@ I've led seven tech teams across multiple universities, guiding over 22 members 
 
 My communication skills are honed through pitches to industry guests from companies like Shopify, Stripe, TD Bank, Gameloft, Ubisoft, Snowman Games, and Uken Games. I've presented at events such as Level UP, UofT CMS Research Symposium, and UofT MScAC Applied Research in Action 2023.🎙️ 
 
-And here’s a memory anchor, in case my profile seems plain to you:
+<!-- And here’s a memory anchor, in case my profile seems plain to you:
 > Computer science is no more about computers than astronomy is about telescopes.
-> —— Edsger Dijkstra
+> —— Edsger Dijkstra -->
 
 If you're interested in collaborating, feel free to reach out via email!
 
